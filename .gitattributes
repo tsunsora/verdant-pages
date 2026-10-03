@@ -1,0 +1,5 @@
+* text=auto
+*.html text eol=lf -whitespace linguist-generated=true
+*.md text eol=lf
+*.svg text eol=lf
+*.txt text eol=lf
