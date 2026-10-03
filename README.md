@@ -39,3 +39,9 @@ This repository contains the published website assets. Development source and ch
 ## Credits
 
 Rendering uses [Three.js](https://github.com/mrdoob/three.js), distributed under the MIT license; its [license notice](licenses/THREE-LICENSE.txt) is included. World geometry, structure parts, and interface graphics are generated or drawn locally.
+
+## Visitors
+
+[![Verdant visitor counter](https://count.getloli.com/@tsunsora-verdant-pages?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/)
+
+Powered by [Moe Counter](https://github.com/journey-ad/Moe-Counter). This counts README image requests, not unique visitors; GitHub image caching can affect the total.
