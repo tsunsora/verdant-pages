@@ -11,8 +11,8 @@ A **pixel world generator and wallpaper studio** for your browser. Explore fores
 ## At a glance
 
 - **42 biomes** across seven regions.
-- **100 landmark choices**, including 80 additional structure types.
-- **Spacious and Vast worlds** with nine or seventeen destinations.
+- **500 unique structures** across nine categories, plus classic landmarks and wild landscapes.
+- **Spacious and Vast worlds** with 25 or 49 destinations and four times the previous map area.
 - **Repeatable seeds**, adjustable lighting, and a minimal interface.
 - **Desktop, ultrawide, and phone PNGs** up to 4K.
 
@@ -23,6 +23,8 @@ A **pixel world generator and wallpaper studio** for your browser. Explore fores
 3. Drag to move, scroll to zoom, and use **View** to visit other destinations.
 4. Open **Save**, choose a resolution, and select **Save PNG**.
 
+The shuffle button randomizes the world settings while preserving your camera, View settings, and export format. Spacious covers 768 × 768 world units; Vast covers 1152 × 1152.
+
 The standalone HTML files also work offline after downloading. No account is required to use the app.
 
 ## Published files
@@ -30,7 +32,7 @@ The standalone HTML files also work offline after downloading. No account is req
 | Path | Contents |
 | --- | --- |
 | [index.html](index.html) | Standalone world generator and wallpaper studio |
-| [Structure-catalog.html](Structure-catalog.html) | Gallery of the 80 additional structures |
+| [Structure-catalog.html](Structure-catalog.html) | Searchable gallery of all 500 structure designs |
 | [assets/](assets/) | App icon |
 | [licenses/](licenses/) | Bundled rendering-library license |
 
